@@ -1,0 +1,25 @@
+Main Radio presenter	Name : MC Dusya
+Translations :
+Broadcasting	duration : 843 seconds
+Song{artist=The Weekend	name=Sacrifice	durationInSeconds=191}
+Ad{product=Tomato paste	durationInSeconds=30}
+Interview{guest=Citizen of the USA	durationInSeconds=340}
+Song{artist=The Weekend	name=Pray for me	durationInSeconds=212}
+Ad{product=Cheese	durationInSeconds=25}
+Ad{product=Restorant 'Zori Meat GastroPub'	durationInSeconds=45}
+Broadcasting	duration : 795 seconds
+Song{artist=The Weekend	name=Pray for me	durationInSeconds=212}
+Ad{product=Cheese	durationInSeconds=25}
+Interview{guest=Citizen of the USA	durationInSeconds=340}
+Song{artist=The Weekend	name=Reminder	durationInSeconds=218}
+Work experience : 12 months
+Guest Radio presenter	Name : Vova
+Translations :
+Broadcasting	duration : 843 seconds
+Song{artist=The Weekend	name=Sacrifice	durationInSeconds=191}
+Ad{product=Tomato paste	durationInSeconds=30}
+Interview{guest=Citizen of the USA	durationInSeconds=340}
+Song{artist=The Weekend	name=Pray for me	durationInSeconds=212}
+Ad{product=Cheese	durationInSeconds=25}
+Ad{product=Restorant 'Zori Meat GastroPub'	durationInSeconds=45}
+CV : I'm 21 year old, funny and smart

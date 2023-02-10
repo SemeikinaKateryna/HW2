@@ -1,0 +1,12 @@
+Duration : 798 seconds
+Content : [Song{artist=The Weekend	name=Sacrifice	durationInSeconds=191}, Ad{product=Tomato paste	durationInSeconds=30}, Interview{guest=Citizen of the USA	durationInSeconds=340}, Song{artist=The Weekend	name=Pray for me	durationInSeconds=212}, Ad{product=Cheese	durationInSeconds=25}]
+Income : 445.0
+Duration : 743 seconds
+Content : [Song{artist=The Weekend	name=Pray for me	durationInSeconds=212}, Ad{product=Restorant 'Zori Meat GastroPub'	durationInSeconds=45}, Song{artist=The Weekend	name=Sacrifice	durationInSeconds=191}, Ad{product=Cheese	durationInSeconds=25}, Interview{guest=Football player Pele	durationInSeconds=270}]
+Income : 485.0
+Duration : 843 seconds
+Content : [Song{artist=The Weekend	name=Sacrifice	durationInSeconds=191}, Ad{product=Tomato paste	durationInSeconds=30}, Interview{guest=Citizen of the USA	durationInSeconds=340}, Song{artist=The Weekend	name=Pray for me	durationInSeconds=212}, Ad{product=Cheese	durationInSeconds=25}, Ad{product=Restorant 'Zori Meat GastroPub'	durationInSeconds=45}]
+Income : 670.0
+Duration : 795 seconds
+Content : [Song{artist=The Weekend	name=Pray for me	durationInSeconds=212}, Ad{product=Cheese	durationInSeconds=25}, Interview{guest=Citizen of the USA	durationInSeconds=340}, Song{artist=The Weekend	name=Reminder	durationInSeconds=218}]
+Income : 295.0
