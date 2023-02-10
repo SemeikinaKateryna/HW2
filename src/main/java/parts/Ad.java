@@ -16,7 +16,6 @@ public class Ad extends Part implements ReadFromFileAbility {
 
     public Ad() {
         super(0);
-        product = " ";
     }
 
     @Override
