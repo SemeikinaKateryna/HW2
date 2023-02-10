@@ -2,7 +2,6 @@ package parts;
 
 abstract public class Part {
    int durationInSeconds;
-   //public static double pricePerSecond = 0;
    public Part(int durationInSeconds) {
       this.durationInSeconds = durationInSeconds;
    }
