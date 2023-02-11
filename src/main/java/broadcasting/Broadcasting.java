@@ -1,11 +1,10 @@
 package broadcasting;
 
-import fileSystem.WriteToFileAbility;
+import filesystem.WriteToFileAbility;
 import parts.*;
 
 import java.io.*;
 import java.util.ArrayList;
-import java.util.List;
 
 public class Broadcasting implements WriteToFileAbility {
     int expectedDuration;    // In seconds

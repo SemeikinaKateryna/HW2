@@ -1,6 +1,4 @@
-package fileSystem;
-
-import parts.Part;
+package filesystem;
 
 import java.util.List;
 

@@ -2,8 +2,8 @@ package main;
 
 import broadcasting.Broadcasting;
 import parts.*;
-import radioPresenter.GuestRadioPresenter;
-import radioPresenter.MainRadioPresenter;
+import radiopresenter.GuestRadioPresenter;
+import radiopresenter.MainRadioPresenter;
 
 import java.util.List;
 

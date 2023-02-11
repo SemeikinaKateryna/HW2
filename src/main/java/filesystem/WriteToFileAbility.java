@@ -1,4 +1,4 @@
-package fileSystem;
+package filesystem;
 
 public interface WriteToFileAbility {
     void writeToFile();

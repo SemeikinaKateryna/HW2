@@ -1,6 +1,6 @@
 package parts;
 
-import fileSystem.ReadFromFileAbility;
+import filesystem.ReadFromFileAbility;
 
 import java.io.*;
 import java.util.ArrayList;

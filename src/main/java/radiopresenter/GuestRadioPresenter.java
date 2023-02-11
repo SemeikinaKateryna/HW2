@@ -1,6 +1,6 @@
-package radioPresenter;
+package radiopresenter;
 
-import fileSystem.WriteToFileAbility;
+import filesystem.WriteToFileAbility;
 
 import java.io.FileWriter;
 import java.io.IOException;

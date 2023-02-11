@@ -1,4 +1,4 @@
-package radioPresenter;
+package radiopresenter;
 
 import broadcasting.Broadcasting;
 
